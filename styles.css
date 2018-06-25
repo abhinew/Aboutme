@@ -1,0 +1,53 @@
+body {
+
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 80%;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+ul li {
+  display: inline;
+
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 20px;
+
+}
+
+ul li a {
+  font-family: "Ubuntu" , "sans-serif";
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+  text-transform: uppercase;
+}
+
+.profile-picture {
+  margin: auto;
+  display: block;
+  width: 25%;
+  margin-top: 50px;
+}
+h3 {
+  font-family: "Open Sans";
+}
+h4 {
+  font-family: "Open Sans";
+}
+.intro {
+  font-family: "Open Sans" , sans-serif;
+}
+
+.gallery img {
+  float: left;
+  width: 30%;
+  
+  margin: 5px;
+}
